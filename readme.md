@@ -37,6 +37,8 @@ Yon can see every time you log in the terminal.
 $ minki init
 ```
 
+<img width="248" alt="스크린샷 2019-12-28 오전 12 31 38" src="https://user-images.githubusercontent.com/7090906/71522771-6e49db80-2909-11ea-968a-8164dc433bd8.png">
+
 ### Show status
 
 You can see status.
@@ -45,54 +47,15 @@ You can see status.
 $ minki
 ```
 
-### Import the package
-
-To use this plugin, follow the [**plugin installation instructions**](https://pub.dev/packages/screenshot_callback#-installing-tab-).
-
-### Use the plugin
-
-Add the following import to your Dart code:
-
-```dart
-import 'package:screenshot_callback/screenshot_callback.dart';
-```
-
-Initialize ScreenshotCallback with the scopes you want:
-
-```dart
-ScreenshotCallback screenshotCallback = ScreenshotCallback();
-```
-
-### addListener
-
-Then invoke <code>addListener</code> method of <code>ScreenshotCallback</code>.
-Add custom functions that you want to excute after detect screenshot. e.g:
-
-```dart
-screenshotCallback.addListener(() {
-  //Void funtions are implemented
-  print('detect screenshot');
-});
-```
-
-### dispose
-
-You need to call <code>dispose</code> method to terminate <code>ScreenshotCallback</code> before you exit the app e.g:
-
-```dart
-screenshotCallback.dispose();
-```
-
 ## Issues and Feedback
 
-Please [**file**](https://github.com/flutter-moum/flutter_screenshot_callback/issues/new) issues to send feedback or report a bug. Thank you !
+Please [**file**](https://github.com/beygee/minki/issues/new) issues to send feedback or report a bug. Thank you !
 
 ## Author
 
-- [Gwangyu-Kim](https://github.com/kwanguuuu) • <kwangyu326@gmail.com>
-- [minsub0922](https://github.com/minsub0922) • <minsub0922@naver.com>
+- [vwjdtjdwnsv](https://github.com/vwjdtjdwnsv)
+- [SeoSang](https://github.com/SeoSang)
 - [beygee](https://github.com/beygee) • <doug0476@naver.com>
-- [Flutter Moum](https://github.com/flutter-moum) • <fluttermoum@gmail.com>
 
 ## License
 
