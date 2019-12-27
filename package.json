@@ -1,18 +1,19 @@
 {
   "name": "minki",
   "description": "Minki",
-  "version": "0.0.3",
+  "version": "0.1.1",
   "main": "index.js",
   "engines": {
     "node": ">=10.0.0"
   },
   "dependencies": {
+    "ansi": "^0.3.1",
     "boxen": "^4.2.0",
     "chalk": "^3.0.0",
     "commander": "^4.0.1",
     "jsonfile": "^5.0.0",
+    "line-by-line": "^0.1.6",
     "listr": "^0.14.3",
-    "lolcatjs": "^2.3.2",
     "shelljs": "^0.8.3",
     "terminal-kit": "^1.32.2"
   },
