@@ -8,9 +8,11 @@
   },
   "dependencies": {
     "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
     "commander": "^4.0.1",
     "jsonfile": "^5.0.0",
     "lolcatjs": "^2.3.2",
+    "shelljs": "^0.8.3",
     "terminal-kit": "^1.32.2"
   },
   "bin": {
