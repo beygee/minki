@@ -1,7 +1,7 @@
 {
   "name": "minki",
   "description": "Minki",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "engines": {
     "node": ">=10.0.0"
@@ -13,6 +13,7 @@
     "terminal-kit": "^1.32.2"
   },
   "bin": {
-    "minki": "./bin/minki"
+    "minki": "./bin/minki",
+    "show" : "./bin/minki" 
   }
 }
