@@ -10,6 +10,7 @@
     "commander": "^4.0.1"
   },
   "bin": {
-    "minki": "./bin/minki"
+    "minki": "./bin/minki",
+    "show" : "./bin/minki" 
   }
 }
