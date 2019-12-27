@@ -8,12 +8,13 @@
   },
   "dependencies": {
     "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
     "commander": "^4.0.1",
     "lolcatjs": "^2.3.2",
     "terminal-kit": "^1.32.2"
   },
   "bin": {
     "minki": "./bin/minki",
-    "show" : "./bin/minki" 
+    "show": "./bin/minki"
   }
 }
