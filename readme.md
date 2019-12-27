@@ -4,7 +4,7 @@
 </h4>
 
 <div align="center">
-  <a href="https://pub.dartlang.org/packages/screenshot_callback">
+  <a href="https://www.npmjs.com/package/minki">
     <img src="https://badge.fury.io/js/minki.svg" />
   </a>
   <img src="https://img.shields.io/github/license/beygee/minki" />
