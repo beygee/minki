@@ -17,7 +17,7 @@
   <a href="#license">License</a>
 </p>
 
-> [Feedback welcome](https://github.com/flutter-moum/flutter_screenshot_callback/issues/new) and [Pull Requests](https://github.com/flutter-moum/flutter_screenshot_callback/pulls) are most welcome!
+> [Feedback welcome](https://github.com/beygee/minki/issues/new) and [Pull Requests](https://github.com/beygee/minki/pulls) are most welcome!
 
 <img width="1053" alt="스크린샷 2019-12-28 오전 12 29 34" src="https://user-images.githubusercontent.com/7090906/71522709-2a56d680-2909-11ea-9074-a11bac19f402.png">
 
