@@ -23,7 +23,7 @@
 
 ## Usage
 
-<img width="500" alt="스크린샷 2019-12-28 오전 12 29 34" src="https://user-images.githubusercontent.com/7090906/71538335-9d456900-296c-11ea-88b7-a5fc3b66f53e.gif">
+<img width="1053" alt="스크린샷 2019-12-28 오전 12 31 38" src="https://user-images.githubusercontent.com/7090906/71538336-9d456900-296c-11ea-97a3-8e97a860360b.gif">
 
 ### Installing Minki
 
@@ -41,7 +41,7 @@ $ minki init
 
 ### Show status
 
-<img width="248" alt="스크린샷 2019-12-28 오전 12 31 38" src="https://user-images.githubusercontent.com/7090906/71538336-9d456900-296c-11ea-97a3-8e97a860360b.gif">
+<img width="1053" alt="스크린샷 2019-12-28 오전 12 29 34" src="https://user-images.githubusercontent.com/7090906/71538335-9d456900-296c-11ea-88b7-a5fc3b66f53e.gif">
 
 You can see status.
 
