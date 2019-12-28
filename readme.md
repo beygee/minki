@@ -47,6 +47,23 @@ You can see status.
 $ minki
 ```
 
+### Options
+
+```shell
+$ minki --help
+Usage: minki [options] [command]
+
+Options:
+  -V, --version  output the version number
+  -h, --help     output usage information
+
+Commands:
+  rename <name>
+  reset
+  feed
+  init
+```
+
 ## Issues and Feedback
 
 Please [**file**](https://github.com/beygee/minki/issues/new) issues to send feedback or report a bug. Thank you !
