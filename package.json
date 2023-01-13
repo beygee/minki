@@ -15,7 +15,7 @@
     "line-by-line": "^0.1.6",
     "listr": "^0.14.3",
     "shelljs": "^0.8.3",
-    "terminal-kit": "^1.32.2"
+    "terminal-kit": "^2.1.8"
   },
   "bin": {
     "minki": "./bin/minki",
